@@ -1,2 +1,2 @@
-# Python
-Daniel's python project
+# Calculator
+Simple calculator made with python
