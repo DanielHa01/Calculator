@@ -1,2 +1,3 @@
 # Calculator
-Simple calculator made with python
+Simple calculator made with Tkinter
+
